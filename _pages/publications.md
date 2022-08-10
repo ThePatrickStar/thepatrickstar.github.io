@@ -8,6 +8,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ("*" means co-first author or corresponding author)
 
+> 2022
 - Yaowen Zheng, **Yuekang Li***, Cen Zhang, Hongsong Zhu, Yang Liu, Limin Sun. Efficient Greybox Fuzzing of
   Applications in Linux-based IoT Devices via Enhanced User-mode Emulation. In ACM SIGSOFT
   International Symposium on Software Testing and Analysis (ISSTA), 18-22 July, 2022, Daejeon, South Korea.
@@ -21,6 +22,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - Zhengjie Du, **Yuekang Li***, Yang Liu, and Bing Mao. WindRanger: A Directed Greybox Fuzzer driven by
   Deviation Basic Blocks. In In Proceedings of the 44th International Conference on Software Engineering
   (ICSE2022), May 21-29, 2022, Pittsburgh, PA, USA, pages 13 (waiting for camera-ready), 2022.
+> 2021
 - Xiaoyu He, Xiaofei Xie, **Yuekang Li**, Jianwen Sun, Feng Li, Wei Zou, Yang Liu, Lei Yu, Jianhua Zhou,
   Wenchang Shi, and Wei Huo. Sofi: Reflection-augmented fuzzing for javascript engines. In Proceedings of the
   2021 ACM SIGSAC Conference on Computer and Communications Security, CCS ’21, page 2229-2242, New
@@ -31,6 +33,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - Cen Zhang, Xingwei Lin, **Yuekang Li***, Yinxing Xue, Jundong Xie, Hongxu Chen, Xinlei Ying, Jiashui Wang,
   and Yang Liu. APICraft: Fuzz driver generation for closed-source SDK libraries. In 30th USENIX Security
   Symposium (USENIX Security 21), pages 2811-2828. USENIX Association, August 2021.
+> 2020
 - Cheng Wen, Haijun Wang, **Yuekang Li**, Shengchao Qin, Yang Liu, Zhiwu Xu, Hongxu Chen, Xiaofei Xie,
   Geguang Pu, and Ting Liu. Memlock: Memory usage guided fuzzing. In 42nd International Conference on
   Software Engineering (ICSE2020), pages 765-777.
@@ -44,6 +47,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - **Yuekang Li**, Hongxu Chen, Cen Zhang, Siyang Xiong, Chaoyi Liu, and Yi Wang. Ori: A greybox fuzzer for
   some/ip protocols in automotive ethernet. In 2020 27th Asia-Pacific Software Engineering Conference
   (APSEC), pages 495-499, 2020.
+> 2019
 - Xiaofei Xie, Lei Ma, Haijun Wang, **Yuekang Li**, Yang Liu, and Xiaohong Li. Diffchaser: Detecting
   disagreements for deep neural networks. In Proceedings of the Twenty-Eighth International Joint Conference
   on Artificial Intelligence, IJCAI-19, pages 5772-5778. International Joint Conferences on Artificial Intelligence
@@ -57,6 +61,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 - Xiaoning Du, Bihuan Chen, **Yuekang Li**, Jianmin Guo, Yaqin Zhou, Yang Liu, and Yu Jiang. Attack surface
   identification for vulnerability assessment through program metrics. In In Proceedings of the 41st International
   Conference on Software Engineering (ICSE2019), Montreal, QC, Canada, 2019, pages 60-71, 2019.
+> 2018
 - **Yuekang Li**. Principled greybox fuzzing. In Jing Sun and Meng Sun, editors, Formal Methods and Software
   Engineering, pages 455-458, Cham, 2018. Springer International Publishing.
 - Hongxu Chen, Yinxing Xue, **Yuekang Li**, Bihuan Chen, Xiaofei Xie, Xiuheng Wu, and Yang Liu. Hawkeye:
@@ -67,6 +72,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   extensible fuzzing framework. In Proceedings of the 2018 ACM Joint Meeting on European Software
   Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/SIGSOFT FSE
   2018, Lake Buena Vista, FL, USA, November 04-09, 2018, pages 867-870. ACM Press, 2018.
+> 2017
 - **Yuekang Li**, Bihuan Chen, Mahinthan Chandramohan, Shang-Wei Lin, Yang Liu, and Alwen Tiu. Steelix:
   Program-state based binary fuzzing. In Proceedings of the 2017 11th Joint Meeting on Foundations of Software
   Engineering, ESEC/FSE 2017, pages 627-637, New York, NY, USA, 2017. ACM.

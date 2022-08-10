@@ -2,8 +2,10 @@
 layout: archive
 title: "Interesting  Projects"
 permalink: /interesting-projects/
+author_profile: true
 redirect_from:
 - /interesting-projects
+- /interesting-projects/
 ---
 
 This page is used to archive some interesting projects I have done.

@@ -24,6 +24,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   (ICSE2022), May 21-29, 2022, Pittsburgh, PA, USA, pages 13 (waiting for camera-ready), 2022.
 
 > 2021
+- **Yuekang Li**, Guozhu Meng, Jun Xu, Cen Zhang, Hongxu Chen, Xiaofei Xie, Haijun Wang, and Yang Liu.
+  Vall-nut: Principled anti-grey box - fuzzing. In 2021 IEEE 32nd International Symposium on Software
+  Reliability Engineering (ISSRE), pages 288-299, 2021.
 - Xiaoyu He, Xiaofei Xie, **Yuekang Li**, Jianwen Sun, Feng Li, Wei Zou, Yang Liu, Lei Yu, Jianhua Zhou,
   Wenchang Shi, and Wei Huo. Sofi: Reflection-augmented fuzzing for javascript engines. In Proceedings of the
   2021 ACM SIGSAC Conference on Computer and Communications Security, CCS ’21, page 2229-2242, New

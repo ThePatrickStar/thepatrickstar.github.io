@@ -8,7 +8,7 @@ redirect_from:
 
 This page is used to archive some interesting projects I have done.
 
-- [<img src="../images/handwriting-note-icon.webp" width="50">]()
+- [<img src="../images/handwriting-note-icon.webp" width="50">](https://play.google.com/store/apps/details?id=com.lyk.immersivenote)
 
 This is an Android app that allows you to take handwritten notes. (view in [Google Play Store](https://play.google.com/store/apps/details?id=com.lyk.immersivenote))
 

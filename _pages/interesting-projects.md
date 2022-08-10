@@ -10,9 +10,10 @@ redirect_from:
 
 This page is used to archive some interesting projects I have done.
 
-- This is an Android app that allows you to take handwritten notes. It now has 10k+ downloads. (view in [Google Play Store](https://play.google.com/store/apps/details?id=com.lyk.immersivenote))
+[//]: # (- This is an Android app that allows you to take handwritten notes. It now has 10k+ downloads. &#40;view in [Google Play Store]&#40;https://play.google.com/store/apps/details?id=com.lyk.immersivenote&#41;&#41;)
 
-- This is an Android 2048 game. It has an AI that can play the game automatically. The AI is based on the Monte Carlo Simulation algorithm. (view in [Google Play Store](https://play.google.com/store/apps/details?id=com.lyk.ai_2048))
+[//]: # ()
+[//]: # (- This is an Android 2048 game. It has an AI that can play the game automatically. The AI is based on the Monte Carlo Simulation algorithm. &#40;view in [Google Play Store]&#40;https://play.google.com/store/apps/details?id=com.lyk.ai_2048&#41;&#41;)
 
 
 

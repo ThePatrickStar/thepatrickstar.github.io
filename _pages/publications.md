@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ("*" means co-first author or corresponding author)
 
 > 2022
+- Yi Liu, **Yuekang Li***, Yang Liu, Ruiyuan Wan, Runchao Wu, and Qingkun Liu. **Morest: Industry Practice of Automatic 
+  RESTful API Testing.** (ASE 2022)
 - Siqi Li, Xiaofei Xie, Yun Lin, **Yuekang Li**, Ruitao Feng, Xiaohong Li, Weimin Ge, and Jin Song Dong. **Deep 
   Learning for Coverage-Guided Fuzzing: How Far Are We?** (TDSC 2022).
 - Yaowen Zheng, **Yuekang Li***, Cen Zhang, Hongsong Zhu, Yang Liu, Limin Sun. **Efficient Greybox Fuzzing of

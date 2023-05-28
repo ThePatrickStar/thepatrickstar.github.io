@@ -7,7 +7,7 @@ Under construction.
 
 ## Personal Projects
 
-Just doing these for fun.
+Just for fun.
 
 ### Handwriting Note 
 - [<img src="../imgs/handwriting-note-icon.webp" width="40">](https://play.google.com/store/apps/details?id=com.lyk.immersivenote)

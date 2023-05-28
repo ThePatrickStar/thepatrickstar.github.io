@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b7c6e3a0.js",
+    "static/js/787.df5e1d3a.chunk.js": "/static/js/787.df5e1d3a.chunk.js",
+    "static/media/profile-pic-lyk-trans-square.png": "/static/media/profile-pic-lyk-trans-square.a8c3bd82359865845d69.png",
+    "index.html": "/index.html",
+    "main.b7c6e3a0.js.map": "/static/js/main.b7c6e3a0.js.map",
+    "787.df5e1d3a.chunk.js.map": "/static/js/787.df5e1d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7c6e3a0.js"
+  ]
+}

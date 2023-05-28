@@ -31,18 +31,12 @@ His research work includes software testing techniques (especially fuzzing), as 
 ## Awards
 
 - `2023` 1st place in the [Fuzzing Tool Competition](https://sbft23.github.io/tools/fuzzing) of SBFT'23
-  - [Source Code](https://github.com/AAArdu/hastefuzz)
-  - This tool has won an award of $11,337 from Google 🔥
+  - [Source Code](https://github.com/AAArdu/hastefuzz) - This tool has won an award of $11,337 from Google 🔥
 - `2021` Most Influential Research Paper of Year 2021
-  - [Paper](https://www.usenix.org/system/files/sec21-zhang-cen.pdf)
-  - 2021 Most Influential Research Paper Election of Ant Finance
+  - [Paper](https://www.usenix.org/system/files/sec21-zhang-cen.pdf) - 2021 Most Influential Research Paper Election of Ant Finance
 - `2020` Best Early-Research-Achievement Paper in [APSEC'20](https://formal-analysis.com/apsec/2020/)
   - [Paper](https://ieeexplore.ieee.org/document/9359273)
 - `2019` 1st Award in Prototype Competition (freestyle) in NASAC'19
-  - [Paper](https://ieeexplore.ieee.org/document/9678910)
-  - The 18th National Software Application Conference
+  - [Paper](https://ieeexplore.ieee.org/document/9678910) - The 18th National Software Application Conference
 - `2017` 1st Award in Prototype Competition (fixed topic) in NASAC'17
-  - [Paper](https://dl.acm.org/doi/10.1145/3236024.3264593)
-  - The 16th National Software Application Conference
-
-  
+  - [Paper](https://dl.acm.org/doi/10.1145/3236024.3264593) - The 16th National Software Application Conference 

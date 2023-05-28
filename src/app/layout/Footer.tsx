@@ -38,7 +38,7 @@ export default function Footer() {
         </Grid>
         <Grid
           item
-          sx={{ backgroundColor: "#3279CB", width: "200px" }}
+          sx={{ backgroundColor: "#3279CB", width: "1000px" }}
           display="flex"
         >
           <Stack direction="row" spacing={0.5} sx={{ pl: 1 }}>
@@ -69,7 +69,8 @@ export default function Footer() {
             >
               <IoIosGitBranch fontSize="0.9rem" />
               <Typography sx={{ ml: 0.5, mt: 0.1, fontSize: "0.6rem" }}>
-                main
+                  This website is developed based on "react-vscode-portfolio" by Yan-Ying Liao.
+                  You can find the original project by clicking here.
               </Typography>
             </Box>
             {/* </Link> */}
@@ -126,7 +127,9 @@ export default function Footer() {
                   pt: 0.3,
                 }}
               >
-                <Typography sx={{ fontSize: "0.6rem" }}>0</Typography>
+                <Typography sx={{ fontSize: "0.6rem" }}>
+                    0
+                </Typography>
               </Box>
             </Stack>
           </Stack>
@@ -134,7 +137,7 @@ export default function Footer() {
         <Grid
           item
           // sx={{ backgroundColor: '#3279CB', minWidth: `calc(100% - 35px)` }}
-          sx={{ backgroundColor: "#3279CB", minWidth: `calc(100% - 235px)` }}
+          sx={{ backgroundColor: "#3279CB", minWidth: `calc(100% - 1035px)` }}
           display="flex"
           justifyContent="flex-end"
         >

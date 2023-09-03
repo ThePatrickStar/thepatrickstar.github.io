@@ -84,6 +84,11 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Deploy
+   ```sh
+   npm run deploy
+   ```
+
 ### Installation
 
 1. Clone the repo

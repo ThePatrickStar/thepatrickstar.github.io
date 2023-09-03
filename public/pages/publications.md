@@ -4,8 +4,20 @@ The list of publications can also be found on [Google Scholar](https://scholar.g
 
 I do have plans to put the pdfs of the papers in a public group of [BettaFish](https://www.bettafish.cc/).
 
+## 2024
+
+- File Hijacking Vulnerability: The Elephant in the Room
+  - Chendong Yu, Yang Xiao, Jie Lu, **Yuekang Li**, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo
+  - `NDSS`
+
 ## 2023
 
+- HasteFuzz: Full-Speed Fuzzing
+  - Zhengjie Du, **Yuekang Li**
+  - `ICSE (SBFT workshop)` - first award in the fuzzing competition and an award of $11,337 from Google 🔥 - [Source Code](https://github.com/AAArdu/hastefuzz)
+- ASTER: Automatic Speech Recognition System Accessibility Testing for Stutterers
+  - Yi Liu, **Yuekang Li**, Gelei Deng, Felix Juefei-Xu, Yao Du, Cen Zhang, Chengwei Liu, Yeting Li, Lei Ma, Yang Liu
+  - `ASE`
 - ACETest: Automated Constraint Extraction for Testing Deep Learning Operators
   - Jingyi Shi, Yang Xiao, **Yuekang Li**, Yeting Li, DongSong Yu, Chendong Yu, Hui Su, Yufeng Chen, Wei Huo
   - `ISSTA`
@@ -60,7 +72,7 @@ I do have plans to put the pdfs of the papers in a public group of [BettaFish](h
   - `CCS` - [acm](https://dl.acm.org/doi/pdf/10.1145/3460120.3484823)
 - APICraft: Fuzz driver generation for closed-source SDK libraries
   - Cen Zhang, Xingwei Lin, **Yuekang Li**, Yinxing Xue, Jundong Xie, Hongxu Chen, Xinlei Ying, Jiashui Wang, and Yang Liu.
-  - `UseNix Security` - [pdf](https://www.usenix.org/system/files/sec21-zhang-cen.pdf)
+  - `Usenix Security` - [pdf](https://www.usenix.org/system/files/sec21-zhang-cen.pdf)
 - Biff: Practical binary fuzzing framework for programs of iot and mobile devices
   - Cen Zhang, **Yuekang Li**, Hongxu Chen, Xiaoxing Luo, Miaohua Li, Anh Quynh Nguyen, and Yang Liu.
   - `ASE (industry track)` - [ieee](https://ieeexplore.ieee.org/document/9678910)
@@ -80,7 +92,7 @@ I do have plans to put the pdfs of the papers in a public group of [BettaFish](h
   - `ICSE` - [pdf](https://research.tees.ac.uk/ws/files/15892109/icse2020_uafl.pdf)
 - MUZZ: Thread-aware grey-box fuzzing for effective bug hunting in multithreaded programs
   - Hongxu Chen, Shengjian Guo, Yinxing Xue, Yulei Sui, Cen Zhang, **Yuekang Li**, Haijun Wang, and Yang Liu.
-  - `USENIX Security` - [pdf](https://arxiv.org/pdf/2007.15943.pdf)
+  - `Usenix Security` - [pdf](https://arxiv.org/pdf/2007.15943.pdf)
 
 
 ---

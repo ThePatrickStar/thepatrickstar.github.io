@@ -2,15 +2,22 @@
 
 [//]: # (## Summary)
 
-Yuekang Li is currently a Research Assistant Professor in Continental-NTU Corporate Lab, Nanyang Technological University. 
-He is joining University of New South Wales in July 2023 as a lecturer (similar to Assistant Professor in North American system). 
-His research interests include both software engineering and software security. 
-His research work includes software testing techniques (especially fuzzing), as well as other security analysis and software quality assurance techniques.
+Yuekang Li is currently a lecturer (similar to Assistant Professor in North American system) in the University of New South Wales.
+Previously, he was a Research Assistant Professor in Continental-NTU Corporate Lab, Nanyang Technological University. 
+His research interest mainly lies in the field of software engineering. 
+His research work includes software testing techniques (especially fuzzing), as well as other software quality assurance techniques.
+
+I'm looking for self-motivated Ph.D. or Master students!🎓 Please drop me an email if you are interested.
 
 
 ## Working Experience
 
-**Research Assistant Professor** @ [Nanyang Technological University](https://www.ntu.edu.sg/) _(Jan 2021 - Now)_
+**Lecturer** @ [University of New South Wales](https://www.unsw.edu.au/) _(Aug 2023 - )_
+- [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)
+
+[//]: # (&nbsp;)
+
+**Research Assistant Professor** @ [Nanyang Technological University](https://www.ntu.edu.sg/) _(Jan 2021 - Aug 2023)_
 - [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu)
 
 [//]: # (&nbsp;)
@@ -22,10 +29,10 @@ His research work includes software testing techniques (especially fuzzing), as 
 
 ## Education
 
-`2016-2020` [Nanyang Technological University](https://www.ntu.edu.sg/)
+`2016.01-2020.07` [Nanyang Technological University](https://www.ntu.edu.sg/)
 - **Ph.D.** in Computer Science, School of Computer Science and Engineering
 
-`2012-2015` [Nanyang Technological University](https://www.ntu.edu.sg/)
+`2012.08-2015.12` [Nanyang Technological University](https://www.ntu.edu.sg/)
 - **Bachelor** in Computer Science, School of Computer Science and Engineering (Accelerated Bachelor Program)
 
 ## Awards

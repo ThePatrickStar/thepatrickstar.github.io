@@ -26,7 +26,7 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "mailto:yli044@e.ntu.edu.sg",
+    href: "mailto:yuekang.li@unsw.edu.au",
     icon: <FaEnvelope />,
   },
   {

@@ -6,6 +6,10 @@ I do have plans to put the pdfs of the papers in a public group of [BettaFish](h
 
 ## 2024
 
+- MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots
+  - Gelei Deng, Yi Liu, **Yuekang Li**, Kailong Wang, Ying Zhang, Zefeng Li, Haoyu Wang, Tianwei Zhang, Yang Liu
+  - `NDSS` - [pdf](https://arxiv.org/pdf/2307.08715.pdf)
+
 - File Hijacking Vulnerability: The Elephant in the Room
   - Chendong Yu, Yang Xiao, Jie Lu, **Yuekang Li**, Yeting Li, Lian Li, Yifan Dong, Jian Wang, Jingyi Shi, Defang Bo, Wei Huo
   - `NDSS`

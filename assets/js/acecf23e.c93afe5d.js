@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthepatrickstar_github_io=self.webpackChunkthepatrickstar_github_io||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);

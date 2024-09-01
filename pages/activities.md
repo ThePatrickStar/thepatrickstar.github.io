@@ -1,3 +1,0 @@
-# 🏠 Activities
-
-Under Construction

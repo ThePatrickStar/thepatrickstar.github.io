@@ -1,0 +1,3716 @@
+[
+  {
+    "key": "d76a1b9b2f481452911b252bf49b97c845b5451e",
+    "ss_url": "https://www.semanticscholar.org/paper/d76a1b9b2f481452911b252bf49b97c845b5451e",
+    "title": "Source Code Summarization in the Era of Large Language Models",
+    "venue": "ICSE",
+    "year": 2025,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "2294671786",
+        "author_name": "Weisong Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2294671786"
+      },
+      {
+        "author_id": "2269142306",
+        "author_name": "Yun Miao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269142306"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2310751140",
+        "author_name": "Hongyu Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2310751140"
+      },
+      {
+        "author_id": "2239197945",
+        "author_name": "Chunrong Fang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2239197945"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2266432347",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2266432347"
+      },
+      {
+        "author_id": "2238950128",
+        "author_name": "Zhenyu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2238950128"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "1132777af4ad02cd0cc45dc972bccd5c4ac30a08",
+    "ss_url": "https://www.semanticscholar.org/paper/1132777af4ad02cd0cc45dc972bccd5c4ac30a08",
+    "title": "Medusa: Unveil Memory Exhaustion DoS Vulnerabilities in Protocol Implementations",
+    "venue": "WWW",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2172080665",
+        "author_name": "Zhengjie Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2172080665"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277666656",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277666656"
+      },
+      {
+        "author_id": "2277564842",
+        "author_name": "Xiaohan Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277564842"
+      },
+      {
+        "author_id": "2296488394",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2296488394"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "1950400",
+        "author_name": "Sheikh Mahbub Habib",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1950400"
+      },
+      {
+        "author_id": "48569168",
+        "author_name": "Xinghua Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48569168"
+      },
+      {
+        "author_id": "2284800790",
+        "author_name": "Linzhang Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284800790"
+      },
+      {
+        "author_id": "2152803226",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152803226"
+      },
+      {
+        "author_id": "2299152695",
+        "author_name": "Bing Mao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2299152695"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "27d0561813c6134d62a48cdc42e1aede23e76f98",
+    "ss_url": "https://www.semanticscholar.org/paper/27d0561813c6134d62a48cdc42e1aede23e76f98",
+    "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing",
+    "venue": "USENIX Security",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "49189081",
+        "author_name": "V. Vilches",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49189081"
+      },
+      {
+        "author_id": "2312376465",
+        "author_name": "Peng Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2312376465"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2110355317",
+        "author_name": "Yuan Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2110355317"
+      },
+      {
+        "author_id": "2312308419",
+        "author_name": "Martin Pinzger",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2312308419"
+      },
+      {
+        "author_id": "2238950470",
+        "author_name": "Stefan Rass",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2238950470"
+      },
+      {
+        "author_id": "2277573704",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277573704"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "1cfe6c0ff054faa9ec16b35737b705148307f92a",
+    "ss_url": "https://www.semanticscholar.org/paper/1cfe6c0ff054faa9ec16b35737b705148307f92a",
+    "title": "Leveraging Semantic Relations in Code and Data to Enhance Taint Analysis of Embedded Systems",
+    "venue": "USENIX Security",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Jiaxu Zhao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2110355317",
+        "author_name": "Yanyan Zou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2110355317"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Zhaohui Liang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Xiao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      },
+      {
+        "author_id": "1775709",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1775709"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "Bingwei Peng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "Nanyu Zhong",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "Xinyi Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "Wei Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "Wei Huo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "da9e8b168817b4101fc166a11b2db74d7cafcbd9",
+    "ss_url": "https://www.semanticscholar.org/paper/da9e8b168817b4101fc166a11b2db74d7cafcbd9",
+    "title": "A Hitchhiker's Guide to Jailbreaking ChatGPT via Prompt Engineering",
+    "venue": "SEA4DQ@FSE",
+    "year": 2024,
+    "citation_count": 4,
+    "authors": [
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "3430657",
+        "author_name": "Zhengzi Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/3430657"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277666656",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277666656"
+      },
+      {
+        "author_id": "2288260643",
+        "author_name": "Ying Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2288260643"
+      },
+      {
+        "author_id": "2214121071",
+        "author_name": "Lida Zhao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2214121071"
+      },
+      {
+        "author_id": "2248518131",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2248518131"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "73db5e8d59a7fa0dd93aabfe0b91d9903fe2d685",
+    "ss_url": "https://www.semanticscholar.org/paper/73db5e8d59a7fa0dd93aabfe0b91d9903fe2d685",
+    "title": "HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models",
+    "venue": "OOPSLA",
+    "year": 2024,
+    "citation_count": 2,
+    "authors": [
+      {
+        "author_id": "2177447932",
+        "author_name": "Ningke Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2177447932"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "2282280043",
+        "author_name": "Ling Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2282280043"
+      },
+      {
+        "author_id": "2265727621",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265727621"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "6987c95f7054d2653178ac93df52aa3c0b99fcf5",
+    "ss_url": "https://www.semanticscholar.org/paper/6987c95f7054d2653178ac93df52aa3c0b99fcf5",
+    "title": "MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots",
+    "venue": "NDSS",
+    "year": 2024,
+    "citation_count": 52,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "3088630",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/3088630"
+      },
+      {
+        "author_id": "2153391280",
+        "author_name": "Ying Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153391280"
+      },
+      {
+        "author_id": "2223881770",
+        "author_name": "Zefeng Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2223881770"
+      },
+      {
+        "author_id": null,
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "eda5303583b19fdaaeb8c6f8923f9481b3ce8d4e",
+    "ss_url": "https://www.semanticscholar.org/paper/eda5303583b19fdaaeb8c6f8923f9481b3ce8d4e",
+    "title": "File Hijacking Vulnerability: The Elephant in the Room",
+    "venue": "NDSS",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "1485004322",
+        "author_name": "Chendong Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1485004322"
+      },
+      {
+        "author_id": "2283824072",
+        "author_name": "Yang Xiao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2283824072"
+      },
+      {
+        "author_id": "2283816519",
+        "author_name": "Jie Lu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2283816519"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277647343",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277647343"
+      },
+      {
+        "author_id": "2283837213",
+        "author_name": "Lian Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2283837213"
+      },
+      {
+        "author_id": "2223881770",
+        "author_name": "Yifan Dong",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2223881770"
+      },
+      {
+        "author_id": null,
+        "author_name": "Jian Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Jingyi Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Defang Bo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      },
+      {
+        "author_id": "2270411057",
+        "author_name": "Wei Huo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2270411057"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "486bb2d71e6430688ce3a7cc2f982835b24c71e7",
+    "ss_url": "https://www.semanticscholar.org/paper/486bb2d71e6430688ce3a7cc2f982835b24c71e7",
+    "title": "MeTMaP: Metamorphic Testing for Detecting False Vector Matching Problems in LLM Augmented Generation",
+    "venue": "FORGE",
+    "year": 2024,
+    "citation_count": 5,
+    "authors": [
+      {
+        "author_id": "2285787162",
+        "author_name": "Guanyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2285787162"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2265665080",
+        "author_name": "Tianlin Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265665080"
+      },
+      {
+        "author_id": "2284983525",
+        "author_name": "Guosheng Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284983525"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "fd5cf696c45bd0640d967a5f67bab1a5c512ae9a",
+    "ss_url": "https://www.semanticscholar.org/paper/fd5cf696c45bd0640d967a5f67bab1a5c512ae9a",
+    "title": "Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection",
+    "venue": "ESEC/FSE",
+    "year": 2024,
+    "citation_count": 7,
+    "authors": [
+      {
+        "author_id": "2268093091",
+        "author_name": "Yuxi Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2268093091"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2297212255",
+        "author_name": "Ying Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2297212255"
+      },
+      {
+        "author_id": "2296786018",
+        "author_name": "Wenjia Song",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2296786018"
+      },
+      {
+        "author_id": "2282280043",
+        "author_name": "Ling Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2282280043"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "e15a11e33bd115612a7713f4af4329b6a9bb2a1d",
+    "ss_url": "https://www.semanticscholar.org/paper/e15a11e33bd115612a7713f4af4329b6a9bb2a1d",
+    "title": "GeneRAG: Enhancing Large Language Models with Gene-Related Task by Retrieval-Augmented Generation",
+    "venue": "bioRxiv",
+    "year": 2024,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "2309216925",
+        "author_name": "Xinyi Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2309216925"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2309156452",
+        "author_name": "Jingquan Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2309156452"
+      },
+      {
+        "author_id": "2309153880",
+        "author_name": "Joshua Wing Kei Ho",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2309153880"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "5ba1b0d53a786147585c2078c8e4d1b2d1b17ce6",
+    "ss_url": "https://www.semanticscholar.org/paper/5ba1b0d53a786147585c2078c8e4d1b2d1b17ce6",
+    "title": "MiniScope: Automated UI Exploration and Privacy Inconsistency Detection of MiniApps via Two-phase Iterative Hybrid Analysis",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2265946266",
+        "author_name": "Shenao Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265946266"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2265727621",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265727621"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "2278555060",
+        "author_name": "Chao Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2278555060"
+      },
+      {
+        "author_id": "2268172135",
+        "author_name": "Yanjie Zhao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2268172135"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2282280043",
+        "author_name": "Ling Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2282280043"
+      },
+      {
+        "author_id": "2278645074",
+        "author_name": "Hui Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2278645074"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "9baeb262c3961f46636c9a657a6996640af6a092",
+    "ss_url": "https://www.semanticscholar.org/paper/9baeb262c3961f46636c9a657a6996640af6a092",
+    "title": "Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 5,
+    "authors": [
+      {
+        "author_id": "2298010971",
+        "author_name": "Yuxi Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2298010971"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2282280043",
+        "author_name": "Ling Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2282280043"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2302855501",
+        "author_name": "Shengquan Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2302855501"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "89fccc66c6c9ae90330d184611a9e060bbf2d8dd",
+    "ss_url": "https://www.semanticscholar.org/paper/89fccc66c6c9ae90330d184611a9e060bbf2d8dd",
+    "title": "Image-Based Geolocation Using Large Vision-Language Models",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "2316556701",
+        "author_name": "Junchen Ding",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2316556701"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277573704",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277573704"
+      },
+      {
+        "author_id": "2294671786",
+        "author_name": "Weisong Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2294671786"
+      },
+      {
+        "author_id": "2277666656",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277666656"
+      },
+      {
+        "author_id": "2309156452",
+        "author_name": "Jingquan Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2309156452"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "9152f4f4c7247892338955aa32522322a129e247",
+    "ss_url": "https://www.semanticscholar.org/paper/9152f4f4c7247892338955aa32522322a129e247",
+    "title": "Digger: Detecting Copyright Content Mis-usage in Large Language Model Training",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 9,
+    "authors": [
+      {
+        "author_id": "2277593281",
+        "author_name": "Haodong Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277593281"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "2265727621",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265727621"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277573704",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277573704"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      },
+      {
+        "author_id": "2149279063",
+        "author_name": "Guoai Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2149279063"
+      },
+      {
+        "author_id": "49560201",
+        "author_name": "Guosheng Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49560201"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "3eb8793ecce5a5c392df764ba4574807afe6c6c0",
+    "ss_url": "https://www.semanticscholar.org/paper/3eb8793ecce5a5c392df764ba4574807afe6c6c0",
+    "title": "Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2284948586",
+        "author_name": "Zihao Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284948586"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2282280043",
+        "author_name": "Ling Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2282280043"
+      },
+      {
+        "author_id": "1686538",
+        "author_name": "S. Picek",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1686538"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "4cd920847edce525ecfff6d72901daa72c14d7e4",
+    "ss_url": "https://www.semanticscholar.org/paper/4cd920847edce525ecfff6d72901daa72c14d7e4",
+    "title": "A Survey of Protocol Fuzzing",
+    "venue": "arXiv",
+    "year": 2024,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "2277564842",
+        "author_name": "Xiaohan Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277564842"
+      },
+      {
+        "author_id": "2275294746",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2275294746"
+      },
+      {
+        "author_id": "2231268306",
+        "author_name": "Xinghua Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2231268306"
+      },
+      {
+        "author_id": "2172080665",
+        "author_name": "Zhengjie Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2172080665"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277666656",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277666656"
+      },
+      {
+        "author_id": "2277647343",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277647343"
+      },
+      {
+        "author_id": "2275219151",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2275219151"
+      },
+      {
+        "author_id": "2244269153",
+        "author_name": "Robert H. Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2244269153"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "a2a4ddbed34916cfa345e957cf060da99685e37b",
+    "ss_url": "https://www.semanticscholar.org/paper/a2a4ddbed34916cfa345e957cf060da99685e37b",
+    "title": "Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning",
+    "venue": "AISCC@NDSS",
+    "year": 2024,
+    "citation_count": 19,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2277573704",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277573704"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "8832f073c4d5d7ae26d6b5252b00bf8d8531f2e6",
+    "ss_url": "https://www.semanticscholar.org/paper/8832f073c4d5d7ae26d6b5252b00bf8d8531f2e6",
+    "title": "LLM Jailbreak Attack versus Defense Techniques - A Comprehensive Study",
+    "venue": "ACL",
+    "year": 2024,
+    "citation_count": 17,
+    "authors": [
+      {
+        "author_id": "2284948586",
+        "author_name": "Zihao Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284948586"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "1686538",
+        "author_name": "S. Picek",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1686538"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "53092cd4e91f641134617add052329e2495a4fad",
+    "ss_url": "https://www.semanticscholar.org/paper/53092cd4e91f641134617add052329e2495a4fad",
+    "title": "A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models",
+    "venue": "ACL",
+    "year": 2024,
+    "citation_count": 5,
+    "authors": [
+      {
+        "author_id": "2284948586",
+        "author_name": "Zihao Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284948586"
+      },
+      {
+        "author_id": "2284875313",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284875313"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "1686538",
+        "author_name": "S. Picek",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1686538"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "88dbb1751eb748e2bf5588dc922a63127351cb34",
+    "ss_url": "https://www.semanticscholar.org/paper/88dbb1751eb748e2bf5588dc922a63127351cb34",
+    "title": "NAUTILUS: Automated RESTful API Vulnerability Detection",
+    "venue": "USENIX Security",
+    "year": 2023,
+    "citation_count": 6,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2117993556",
+        "author_name": "Zhiyi Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2117993556"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      },
+      {
+        "author_id": "2116616310",
+        "author_name": "Guo Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2116616310"
+      },
+      {
+        "author_id": "2228954757",
+        "author_name": "Dongjin Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2228954757"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "419f776c2edb013cdc8c1035e29ad561922701f5",
+    "ss_url": "https://www.semanticscholar.org/paper/419f776c2edb013cdc8c1035e29ad561922701f5",
+    "title": "Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation",
+    "venue": "USENIX Security",
+    "year": 2023,
+    "citation_count": 4,
+    "authors": [
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2111824788",
+        "author_name": "Hao Zhou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2111824788"
+      },
+      {
+        "author_id": "2119305934",
+        "author_name": "Xiaohan Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2119305934"
+      },
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "1486437441",
+        "author_name": "Xian Zhan",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1486437441"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "2241568071",
+        "author_name": "Xiapu Luo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2241568071"
+      },
+      {
+        "author_id": "2231268306",
+        "author_name": "Xinghua Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2231268306"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "1950400",
+        "author_name": "Sheikh Mahbub Habib",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1950400"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "d573934801abd5819b19286ce25fe396eb33cf58",
+    "ss_url": "https://www.semanticscholar.org/paper/d573934801abd5819b19286ce25fe396eb33cf58",
+    "title": "HasteFuzz: Full-Speed Fuzzing",
+    "venue": "SBST@ICSE",
+    "year": 2023,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2172080665",
+        "author_name": "Zhengjie Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2172080665"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "4ceaab0bbd5dfbf1a95325690b494d5e37e2bb65",
+    "ss_url": "https://www.semanticscholar.org/paper/4ceaab0bbd5dfbf1a95325690b494d5e37e2bb65",
+    "title": "RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing",
+    "venue": "S&P",
+    "year": 2023,
+    "citation_count": 2,
+    "authors": [
+      {
+        "author_id": "2179531845",
+        "author_name": "Jiawei Yin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2179531845"
+      },
+      {
+        "author_id": "47629025",
+        "author_name": "Menghao Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47629025"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2224064514",
+        "author_name": "Yong Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2224064514"
+      },
+      {
+        "author_id": "2224446873",
+        "author_name": "Boru Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2224446873"
+      },
+      {
+        "author_id": "2152115249",
+        "author_name": "Yanyan Zou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152115249"
+      },
+      {
+        "author_id": "47909156",
+        "author_name": "Y. Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47909156"
+      },
+      {
+        "author_id": "2056206270",
+        "author_name": "Wei Huo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2056206270"
+      },
+      {
+        "author_id": "2220174",
+        "author_name": "Jingling Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2220174"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "fa1369a75deeb962d054b72a814b2021fc635428",
+    "ss_url": "https://www.semanticscholar.org/paper/fa1369a75deeb962d054b72a814b2021fc635428",
+    "title": "ACETest: Automated Constraint Extraction for Testing Deep Learning Operators",
+    "venue": "ISSTA",
+    "year": 2023,
+    "citation_count": 3,
+    "authors": [
+      {
+        "author_id": "2218596760",
+        "author_name": "Jingyi Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2218596760"
+      },
+      {
+        "author_id": "2116643764",
+        "author_name": "Yang Xiao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2116643764"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "47001735",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47001735"
+      },
+      {
+        "author_id": "2111505915",
+        "author_name": "Dongsong Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2111505915"
+      },
+      {
+        "author_id": "1485004322",
+        "author_name": "Chendong Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1485004322"
+      },
+      {
+        "author_id": "145984784",
+        "author_name": "Hui Su",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/145984784"
+      },
+      {
+        "author_id": "47559028",
+        "author_name": "Yufeng Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47559028"
+      },
+      {
+        "author_id": "2056206270",
+        "author_name": "Wei Huo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2056206270"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "51c28647436d6059be9af5b80fae0bdd8a6d19e5",
+    "ss_url": "https://www.semanticscholar.org/paper/51c28647436d6059be9af5b80fae0bdd8a6d19e5",
+    "title": "PumpChannel: An Efficient and Secure Communication Channel for Trusted Execution Environment on ARM-FPGA Embedded SoC",
+    "venue": "DATE",
+    "year": 2023,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "51183087",
+        "author_name": "Jingquan Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/51183087"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "37948271",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/37948271"
+      },
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "2214121071",
+        "author_name": "Lida Zhao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2214121071"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "7377f21a015b8729d7e633ca8408f15cc14c4cdb",
+    "ss_url": "https://www.semanticscholar.org/paper/7377f21a015b8729d7e633ca8408f15cc14c4cdb",
+    "title": "Monitoring Automotive Software Security Health through Trustworthiness Score",
+    "venue": "CSCS",
+    "year": 2023,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2269460235",
+        "author_name": "Etienne Sapin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269460235"
+      },
+      {
+        "author_id": "2269458342",
+        "author_name": "Suraj Menon",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269458342"
+      },
+      {
+        "author_id": "51183087",
+        "author_name": "Jingquan Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/51183087"
+      },
+      {
+        "author_id": "1950400",
+        "author_name": "Sheikh Mahbub Habib",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1950400"
+      },
+      {
+        "author_id": "2269457958",
+        "author_name": "Maurice Heymann",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269457958"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2269458644",
+        "author_name": "Rene Palige",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269458644"
+      },
+      {
+        "author_id": "2269460231",
+        "author_name": "Gabriel Byman",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269460231"
+      },
+      {
+        "author_id": "2152803226",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152803226"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "78df34312a10babec42b342e1a20e3eece90e6d5",
+    "ss_url": "https://www.semanticscholar.org/paper/78df34312a10babec42b342e1a20e3eece90e6d5",
+    "title": "ASTER: Automatic Speech Recognition System Accessibility Testing for Stutterers",
+    "venue": "ASE",
+    "year": 2023,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2119277493",
+        "author_name": "Felix Juefei-Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2119277493"
+      },
+      {
+        "author_id": "2235878714",
+        "author_name": "Yao Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2235878714"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "2158155335",
+        "author_name": "Chengwei Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2158155335"
+      },
+      {
+        "author_id": "47001735",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47001735"
+      },
+      {
+        "author_id": "143828252",
+        "author_name": "L. Ma",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/143828252"
+      },
+      {
+        "author_id": "40457423",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40457423"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "3df53204ae51c7be0e15bf77e25c9beb3d89d233",
+    "ss_url": "https://www.semanticscholar.org/paper/3df53204ae51c7be0e15bf77e25c9beb3d89d233",
+    "title": "Understanding Large Language Model Based Fuzz Driver Generation",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2275294746",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2275294746"
+      },
+      {
+        "author_id": "2307840136",
+        "author_name": "Ming-Xing Bai",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2307840136"
+      },
+      {
+        "author_id": "2277666656",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277666656"
+      },
+      {
+        "author_id": "2277647343",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277647343"
+      },
+      {
+        "author_id": "2265090245",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2265090245"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2187142092",
+        "author_name": "Wei Ma",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2187142092"
+      },
+      {
+        "author_id": "2316296378",
+        "author_name": "Limin Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2316296378"
+      },
+      {
+        "author_id": "2275219151",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2275219151"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "db4cf9f6a653d5c15973e836c800ea47743251ae",
+    "ss_url": "https://www.semanticscholar.org/paper/db4cf9f6a653d5c15973e836c800ea47743251ae",
+    "title": "Prompt Injection attack against LLM-integrated Applications",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 174,
+    "authors": [
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "3088630",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/3088630"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "39584070",
+        "author_name": "Yepang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/39584070"
+      },
+      {
+        "author_id": null,
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/"
+      },
+      {
+        "author_id": "2124949853",
+        "author_name": "Yanhong Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2124949853"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "b85f3a66245d483f3eb3447eaf9950bd55f2b21e",
+    "ss_url": "https://www.semanticscholar.org/paper/b85f3a66245d483f3eb3447eaf9950bd55f2b21e",
+    "title": "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 29,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "1947239202",
+        "author_name": "V'ictor Mayoral-Vilches",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1947239202"
+      },
+      {
+        "author_id": "2217847684",
+        "author_name": "Peng Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2217847684"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2110355317",
+        "author_name": "Yuan Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2110355317"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      },
+      {
+        "author_id": "1775709",
+        "author_name": "M. Pinzger",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1775709"
+      },
+      {
+        "author_id": "1717963",
+        "author_name": "S. Rass",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1717963"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "fc50a6202e2f675604543c1ae4ef22ec74f61ad5",
+    "ss_url": "https://www.semanticscholar.org/paper/fc50a6202e2f675604543c1ae4ef22ec74f61ad5",
+    "title": "Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 301,
+    "authors": [
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "3430657",
+        "author_name": "Zhengzi Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/3430657"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "2153391280",
+        "author_name": "Ying Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153391280"
+      },
+      {
+        "author_id": "2214121071",
+        "author_name": "Lida Zhao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2214121071"
+      },
+      {
+        "author_id": "2146331573",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146331573"
+      },
+      {
+        "author_id": "2152798056",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152798056"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "259d07f47c046389d0b4f256139de64736dd9a94",
+    "ss_url": "https://www.semanticscholar.org/paper/259d07f47c046389d0b4f256139de64736dd9a94",
+    "title": "Jailbreaker: Automated Jailbreak Across Multiple Large Language Model Chatbots",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 100,
+    "authors": [
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2277563961",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277563961"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2284035726",
+        "author_name": "Kailong Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2284035726"
+      },
+      {
+        "author_id": "2297212255",
+        "author_name": "Ying Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2297212255"
+      },
+      {
+        "author_id": "2223881770",
+        "author_name": "Zefeng Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2223881770"
+      },
+      {
+        "author_id": "2269008788",
+        "author_name": "Haoyu Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2269008788"
+      },
+      {
+        "author_id": "2277573704",
+        "author_name": "Tianwei Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277573704"
+      },
+      {
+        "author_id": "2277257260",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2277257260"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "6e463bd4a23d1e692d27843082b1d24f409618b9",
+    "ss_url": "https://www.semanticscholar.org/paper/6e463bd4a23d1e692d27843082b1d24f409618b9",
+    "title": "How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 15,
+    "authors": [
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "2307840136",
+        "author_name": "Ming-Xing Bai",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2307840136"
+      },
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "47001735",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47001735"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2111665481",
+        "author_name": "Wei Ma",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2111665481"
+      },
+      {
+        "author_id": "2148908062",
+        "author_name": "Limin Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2148908062"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "bbde5c00cecd9dc3899179819f7ab82771ad5315",
+    "ss_url": "https://www.semanticscholar.org/paper/bbde5c00cecd9dc3899179819f7ab82771ad5315",
+    "title": "Automatic Code Summarization via ChatGPT: How Far Are We?",
+    "venue": "arXiv",
+    "year": 2023,
+    "citation_count": 49,
+    "authors": [
+      {
+        "author_id": "3433022",
+        "author_name": "Weisong Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/3433022"
+      },
+      {
+        "author_id": "7595994",
+        "author_name": "Chunrong Fang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/7595994"
+      },
+      {
+        "author_id": "2170360816",
+        "author_name": "Yudu You",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2170360816"
+      },
+      {
+        "author_id": "2053094254",
+        "author_name": "Yun Miao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2053094254"
+      },
+      {
+        "author_id": "2178397972",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2178397972"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "2218349947",
+        "author_name": "Shenghan Huang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2218349947"
+      },
+      {
+        "author_id": "2155380281",
+        "author_name": "Yuchen Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2155380281"
+      },
+      {
+        "author_id": "1409701329",
+        "author_name": "Quanjun Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1409701329"
+      },
+      {
+        "author_id": "2218042020",
+        "author_name": "Hanwei Qian",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2218042020"
+      },
+      {
+        "author_id": "2152803192",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152803192"
+      },
+      {
+        "author_id": "2120327152",
+        "author_name": "Zhenyu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2120327152"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "54f9fa1bb86edeb16b1a3b9a0e3f80cc46be4261",
+    "ss_url": "https://www.semanticscholar.org/paper/54f9fa1bb86edeb16b1a3b9a0e3f80cc46be4261",
+    "title": "RegexScalpel: Regular Expression Denial of Service (ReDoS) Defense by Localize-and-Fix",
+    "venue": "USENIX Security",
+    "year": 2022,
+    "citation_count": 6,
+    "authors": [
+      {
+        "author_id": "47001735",
+        "author_name": "Yeting Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47001735"
+      },
+      {
+        "author_id": "2190148988",
+        "author_name": "Yecheng Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2190148988"
+      },
+      {
+        "author_id": "35159204",
+        "author_name": "Zhiwu Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/35159204"
+      },
+      {
+        "author_id": "51170803",
+        "author_name": "Jialun Cao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/51170803"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2119922067",
+        "author_name": "Rongchen Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2119922067"
+      },
+      {
+        "author_id": "2118441152",
+        "author_name": "Haiming Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2118441152"
+      },
+      {
+        "author_id": "143608708",
+        "author_name": "S. Cheung",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/143608708"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "2116643764",
+        "author_name": "Yang Xiao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2116643764"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "d1294bef31ba38bf6c311fc78583159367d265d5",
+    "ss_url": "https://www.semanticscholar.org/paper/d1294bef31ba38bf6c311fc78583159367d265d5",
+    "title": "Deep Learning for Coverage-Guided Fuzzing: How Far are We?",
+    "venue": "TDSC",
+    "year": 2022,
+    "citation_count": 3,
+    "authors": [
+      {
+        "author_id": "2155993172",
+        "author_name": "Siqi Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2155993172"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "47904366",
+        "author_name": "Yun Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47904366"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "1758019",
+        "author_name": "Ruitao Feng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1758019"
+      },
+      {
+        "author_id": "2118890600",
+        "author_name": "Xiaohong Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2118890600"
+      },
+      {
+        "author_id": "2054600593",
+        "author_name": "Weimin Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2054600593"
+      },
+      {
+        "author_id": "2152487387",
+        "author_name": "J. Dong",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2152487387"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "9a147fec6802b70643938b232cc9d42661f19381",
+    "ss_url": "https://www.semanticscholar.org/paper/9a147fec6802b70643938b232cc9d42661f19381",
+    "title": "Efficient greybox fuzzing of applications in Linux-based IoT devices via enhanced user-mode emulation",
+    "venue": "ISSTA",
+    "year": 2022,
+    "citation_count": 24,
+    "authors": [
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "2052222",
+        "author_name": "Hongsong Zhu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2052222"
+      },
+      {
+        "author_id": "40013516",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40013516"
+      },
+      {
+        "author_id": "2148908062",
+        "author_name": "Limin Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2148908062"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "b2fecf1838b320d57ccaebe5b50857d1748183f1",
+    "ss_url": "https://www.semanticscholar.org/paper/b2fecf1838b320d57ccaebe5b50857d1748183f1",
+    "title": "Windranger: A Directed Greybox Fuzzer driven by Deviation Basic Blocks",
+    "venue": "ICSE",
+    "year": 2022,
+    "citation_count": 40,
+    "authors": [
+      {
+        "author_id": "2172080665",
+        "author_name": "Zhengjie Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2172080665"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "40013516",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40013516"
+      },
+      {
+        "author_id": "2150108326",
+        "author_name": "Bing Mao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2150108326"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "b8d9b8e25c17af9a755877ba33b23562d026062b",
+    "ss_url": "https://www.semanticscholar.org/paper/b8d9b8e25c17af9a755877ba33b23562d026062b",
+    "title": "Morest: Model-based RESTful API Testing with Execution Feedback",
+    "venue": "ICSE",
+    "year": 2022,
+    "citation_count": 27,
+    "authors": [
+      {
+        "author_id": "2153627626",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153627626"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "73776889",
+        "author_name": "Gelei Deng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/73776889"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "2158512955",
+        "author_name": "Ruiyuan Wan",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2158512955"
+      },
+      {
+        "author_id": "2163534027",
+        "author_name": "Runchao Wu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2163534027"
+      },
+      {
+        "author_id": "2163522862",
+        "author_name": "Dandan Ji",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2163522862"
+      },
+      {
+        "author_id": "2163581856",
+        "author_name": "Shiheng Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2163581856"
+      },
+      {
+        "author_id": "2163522091",
+        "author_name": "Minli Bao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2163522091"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "705cc8cb756b2f7d506013ab88ce3d36ecac0bed",
+    "ss_url": "https://www.semanticscholar.org/paper/705cc8cb756b2f7d506013ab88ce3d36ecac0bed",
+    "title": "More Secure Collaborative APIs resistant to Flush-Based Cache Attacks on Cortex-A9 Based Automotive System",
+    "venue": "CSCS",
+    "year": 2022,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "51183087",
+        "author_name": "Jingquan Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/51183087"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "8499465",
+        "author_name": "Yaowen Zheng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8499465"
+      },
+      {
+        "author_id": "37948271",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/37948271"
+      },
+      {
+        "author_id": "1950400",
+        "author_name": "Sheikh Mahbub Habib",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1950400"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "cba25d89b4539f5bd5f3e7bac27a4e9c28bde869",
+    "ss_url": "https://www.semanticscholar.org/paper/cba25d89b4539f5bd5f3e7bac27a4e9c28bde869",
+    "title": "Morest: Industry Practice of Automatic RESTful API Testing",
+    "venue": "ASE",
+    "year": 2022,
+    "citation_count": 2,
+    "authors": [
+      {
+        "author_id": "2153630030",
+        "author_name": "Yi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2153630030"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "40013516",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40013516"
+      },
+      {
+        "author_id": "2158512955",
+        "author_name": "Ruiyuan Wan",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2158512955"
+      },
+      {
+        "author_id": "2163534027",
+        "author_name": "Runchao Wu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2163534027"
+      },
+      {
+        "author_id": "2112214600",
+        "author_name": "Qingkun Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2112214600"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "f803962b938fe2dafc5a98fcbcebb56cde04a405",
+    "ss_url": "https://www.semanticscholar.org/paper/f803962b938fe2dafc5a98fcbcebb56cde04a405",
+    "title": "APICraft: Fuzz Driver Generation for Closed-source SDK Libraries",
+    "venue": "USENIX Security",
+    "year": 2021,
+    "citation_count": 28,
+    "authors": [
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "51465605",
+        "author_name": "Xingwei Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/51465605"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2367687",
+        "author_name": "Yinxing Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2367687"
+      },
+      {
+        "author_id": "2109935513",
+        "author_name": "Jundong Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109935513"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "1476814682",
+        "author_name": "Xinlei Ying",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1476814682"
+      },
+      {
+        "author_id": "2155172564",
+        "author_name": "Jiashui Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2155172564"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "8bb58bf9c7b7a3be00bebd67eab75f0fb27719aa",
+    "ss_url": "https://www.semanticscholar.org/paper/8bb58bf9c7b7a3be00bebd67eab75f0fb27719aa",
+    "title": "Vall-nut: Principled Anti-Grey box - Fuzzing",
+    "venue": "ISSRE",
+    "year": 2021,
+    "citation_count": 6,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2018895",
+        "author_name": "Guozhu Meng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2018895"
+      },
+      {
+        "author_id": "2188148199",
+        "author_name": "Jun Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2188148199"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "47909156",
+        "author_name": "Y. Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47909156"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "eab0520b20c840d8495e6cdc539277a0b2fc6969",
+    "ss_url": "https://www.semanticscholar.org/paper/eab0520b20c840d8495e6cdc539277a0b2fc6969",
+    "title": "AutoCom: Automatic Comment Generation for C Code",
+    "venue": "ICSE",
+    "year": 2021,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "97259901",
+        "author_name": "Zhikang Tian",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/97259901"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "b421a16d45e9d4ae05b3122e0171b68410f85b0d",
+    "ss_url": "https://www.semanticscholar.org/paper/b421a16d45e9d4ae05b3122e0171b68410f85b0d",
+    "title": "SoFi: Reflection-Augmented Fuzzing for JavaScript Engines",
+    "venue": "CCS",
+    "year": 2021,
+    "citation_count": 21,
+    "authors": [
+      {
+        "author_id": "2202043563",
+        "author_name": "Xiaoyu He",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2202043563"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "48480213",
+        "author_name": "Jianwen Sun",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48480213"
+      },
+      {
+        "author_id": "2146311731",
+        "author_name": "Feng Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2146311731"
+      },
+      {
+        "author_id": "2290481163",
+        "author_name": "Wei Zou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2290481163"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "2112532304",
+        "author_name": "Lei Yu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2112532304"
+      },
+      {
+        "author_id": "2112269605",
+        "author_name": "Jianhua Zhou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2112269605"
+      },
+      {
+        "author_id": "39071854",
+        "author_name": "Wenchang Shi",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/39071854"
+      },
+      {
+        "author_id": "2056206270",
+        "author_name": "Wei Huo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2056206270"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "1007fb7d1af3ff464cfb3aa7e9e99535f0fcbee9",
+    "ss_url": "https://www.semanticscholar.org/paper/1007fb7d1af3ff464cfb3aa7e9e99535f0fcbee9",
+    "title": "BIFF: Practical Binary Fuzzing Framework for Programs of IoT and Mobile Devices",
+    "venue": "ASE",
+    "year": 2021,
+    "citation_count": 5,
+    "authors": [
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "2115828295",
+        "author_name": "Xiao-Feng Luo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2115828295"
+      },
+      {
+        "author_id": "2155367239",
+        "author_name": "Miaohua Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2155367239"
+      },
+      {
+        "author_id": "1739651",
+        "author_name": "Anh-Quynh Nguyen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1739651"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "c65d2a394d0010393e87105110a3d3dc29441e62",
+    "ss_url": "https://www.semanticscholar.org/paper/c65d2a394d0010393e87105110a3d3dc29441e62",
+    "title": "A First Look at the Effect of Deep Learning in Coverage-guided Fuzzing",
+    "venue": "ASE",
+    "year": 2021,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "2155993172",
+        "author_name": "Siqi Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2155993172"
+      },
+      {
+        "author_id": "47904366",
+        "author_name": "Yun Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47904366"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2118890600",
+        "author_name": "Xiaohong Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2118890600"
+      },
+      {
+        "author_id": "2054600593",
+        "author_name": "Weimin Ge",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2054600593"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "50812829",
+        "author_name": "J. Dong",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/50812829"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "35cc8e42362f4067c31d189578051a46a479bd26",
+    "ss_url": "https://www.semanticscholar.org/paper/35cc8e42362f4067c31d189578051a46a479bd26",
+    "title": "MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs",
+    "venue": "USENIX Security",
+    "year": 2020,
+    "citation_count": 75,
+    "authors": [
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "2659927",
+        "author_name": "Shengjian Guo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2659927"
+      },
+      {
+        "author_id": "2367687",
+        "author_name": "Yinxing Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2367687"
+      },
+      {
+        "author_id": "34296085",
+        "author_name": "Yulei Sui",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/34296085"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "9886cc1ad45abfef3815bca1546bc29bf86488f7",
+    "ss_url": "https://www.semanticscholar.org/paper/9886cc1ad45abfef3815bca1546bc29bf86488f7",
+    "title": "Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities",
+    "venue": "ICSE",
+    "year": 2020,
+    "citation_count": 96,
+    "authors": [
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "152998647",
+        "author_name": "Yi Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/152998647"
+      },
+      {
+        "author_id": "2068033261",
+        "author_name": "Cheng Wen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2068033261"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "8307590",
+        "author_name": "S. Qin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8307590"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "34296085",
+        "author_name": "Yulei Sui",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/34296085"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "c4cffedef07ebd8c200a82edb79e2011354bc0ca",
+    "ss_url": "https://www.semanticscholar.org/paper/c4cffedef07ebd8c200a82edb79e2011354bc0ca",
+    "title": "MemLock",
+    "venue": "ICSE",
+    "year": 2020,
+    "citation_count": 1,
+    "authors": [
+      {
+        "author_id": "2068033261",
+        "author_name": "Cheng Wen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2068033261"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2268205001",
+        "author_name": "Shengchao Qin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2268205001"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "2136441839",
+        "author_name": "Zhiwu Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2136441839"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "2188286623",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2188286623"
+      },
+      {
+        "author_id": "4166714",
+        "author_name": "G. Pu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/4166714"
+      },
+      {
+        "author_id": "2204864080",
+        "author_name": "Ting Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2204864080"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "ff687239730dffbaee9c52e6048953d637974311",
+    "ss_url": "https://www.semanticscholar.org/paper/ff687239730dffbaee9c52e6048953d637974311",
+    "title": "MEMLOCK: Memory Usage Guided Fuzzing",
+    "venue": "ICSE",
+    "year": 2020,
+    "citation_count": 96,
+    "authors": [
+      {
+        "author_id": "2068033261",
+        "author_name": "Cheng Wen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2068033261"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "8307590",
+        "author_name": "S. Qin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8307590"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      },
+      {
+        "author_id": "35159204",
+        "author_name": "Zhiwu Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/35159204"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "4166714",
+        "author_name": "G. Pu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/4166714"
+      },
+      {
+        "author_id": "2115433318",
+        "author_name": "Ting Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2115433318"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "6a95afbacc738f0aec940f20575a8375bd06d36d",
+    "ss_url": "https://www.semanticscholar.org/paper/6a95afbacc738f0aec940f20575a8375bd06d36d",
+    "title": "An Empirical Study on Benchmarks of Artificial Software Vulnerabilities",
+    "venue": "arXiv",
+    "year": 2020,
+    "citation_count": 8,
+    "authors": [
+      {
+        "author_id": "30565530",
+        "author_name": "Sijia Geng",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/30565530"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2111744389",
+        "author_name": "Yunlan Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2111744389"
+      },
+      {
+        "author_id": "145971182",
+        "author_name": "Jun Xu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/145971182"
+      },
+      {
+        "author_id": "40457423",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40457423"
+      },
+      {
+        "author_id": "2245004",
+        "author_name": "Bing Mao",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2245004"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "bb3da452829a2d8b056b51407e3b9d00610d0b91",
+    "ss_url": "https://www.semanticscholar.org/paper/bb3da452829a2d8b056b51407e3b9d00610d0b91",
+    "title": "Ori: A Greybox Fuzzer for SOME/IP Protocols in Automotive Ethernet",
+    "venue": "APSEC",
+    "year": 2020,
+    "citation_count": 9,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2108500775",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2108500775"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "2052111420",
+        "author_name": "Siyang Xiong",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2052111420"
+      },
+      {
+        "author_id": "50557243",
+        "author_name": "Chaoyi Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/50557243"
+      },
+      {
+        "author_id": "47905661",
+        "author_name": "Yi (Estelle) Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47905661"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "fb052b2d6e2ba23cc2c162eaa6340172b5383d78",
+    "ss_url": "https://www.semanticscholar.org/paper/fb052b2d6e2ba23cc2c162eaa6340172b5383d78",
+    "title": "DiffChaser: Detecting Disagreements for Deep Neural Networks",
+    "venue": "IJCAI",
+    "year": 2019,
+    "citation_count": 78,
+    "authors": [
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "2109704789",
+        "author_name": "Lei Ma",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109704789"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "40457423",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40457423"
+      },
+      {
+        "author_id": "2118890600",
+        "author_name": "Xiaohong Li",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2118890600"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "b9c86aebba3b0542dafe51db7398ae5a9bfa1c5b",
+    "ss_url": "https://www.semanticscholar.org/paper/b9c86aebba3b0542dafe51db7398ae5a9bfa1c5b",
+    "title": "LEOPARD: Identifying Vulnerable Code for Vulnerability Assessment Through Program Metrics",
+    "venue": "ICSE",
+    "year": 2019,
+    "citation_count": 84,
+    "authors": [
+      {
+        "author_id": "2056539",
+        "author_name": "Xiaoning Du",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2056539"
+      },
+      {
+        "author_id": "144943089",
+        "author_name": "Bihuan Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144943089"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "47093589",
+        "author_name": "Jianmin Guo",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47093589"
+      },
+      {
+        "author_id": "2110347097",
+        "author_name": "Yaqin Zhou",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2110347097"
+      },
+      {
+        "author_id": "144440741",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144440741"
+      },
+      {
+        "author_id": "2116341541",
+        "author_name": "Yu Jiang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2116341541"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "947931e899ceddcb40cfae4ed08dd9ffc2b9d0d3",
+    "ss_url": "https://www.semanticscholar.org/paper/947931e899ceddcb40cfae4ed08dd9ffc2b9d0d3",
+    "title": "Locating vulnerabilities in binaries via memory layout recovering",
+    "venue": "ESEC/FSE",
+    "year": 2019,
+    "citation_count": 14,
+    "authors": [
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "144660350",
+        "author_name": "Shang-Wei Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144660350"
+      },
+      {
+        "author_id": "47904366",
+        "author_name": "Yun Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47904366"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "8307590",
+        "author_name": "S. Qin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/8307590"
+      },
+      {
+        "author_id": "40457423",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40457423"
+      },
+      {
+        "author_id": "144003898",
+        "author_name": "Ting Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144003898"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "4ae5f7ef9d5062e8d9f28bafffbadb7495764937",
+    "ss_url": "https://www.semanticscholar.org/paper/4ae5f7ef9d5062e8d9f28bafffbadb7495764937",
+    "title": "Cerebro: context-aware adaptive fuzzing for effective vulnerability detection",
+    "venue": "ESEC/FSE",
+    "year": 2019,
+    "citation_count": 74,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "2367687",
+        "author_name": "Yinxing Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2367687"
+      },
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "2142479116",
+        "author_name": "Xiuheng Wu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2142479116"
+      },
+      {
+        "author_id": "2109269289",
+        "author_name": "Cen Zhang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2109269289"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "48017112",
+        "author_name": "Haijun Wang",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/48017112"
+      },
+      {
+        "author_id": "40457423",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/40457423"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "808b546dbf10db4d084063fcae5478687adccdc3",
+    "ss_url": "https://www.semanticscholar.org/paper/808b546dbf10db4d084063fcae5478687adccdc3",
+    "title": "Semantic-based vulnerability analysis of software",
+    "venue": "arXiv",
+    "year": 2019,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "6b7c106751dd9aa99d57816adb5df57b12a609f8",
+    "ss_url": "https://www.semanticscholar.org/paper/6b7c106751dd9aa99d57816adb5df57b12a609f8",
+    "title": "Principled Greybox Fuzzing",
+    "venue": "IEEE International Conference on Formal Engineering Methods",
+    "year": 2018,
+    "citation_count": 0,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "52e18b748dc162530f482dfdeabfcdd1d2f1d03a",
+    "ss_url": "https://www.semanticscholar.org/paper/52e18b748dc162530f482dfdeabfcdd1d2f1d03a",
+    "title": "FOT: a versatile, configurable, extensible fuzzing framework",
+    "venue": "ESEC/FSE",
+    "year": 2018,
+    "citation_count": 24,
+    "authors": [
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "144943089",
+        "author_name": "Bihuan Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144943089"
+      },
+      {
+        "author_id": "2367687",
+        "author_name": "Yinxing Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2367687"
+      },
+      {
+        "author_id": "144440741",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144440741"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "65313425b7cd5658f7c488cabf51c9197ebac99e",
+    "ss_url": "https://www.semanticscholar.org/paper/65313425b7cd5658f7c488cabf51c9197ebac99e",
+    "title": "Hawkeye: Towards a Desired Directed Grey-box Fuzzer",
+    "venue": "CCS",
+    "year": 2018,
+    "citation_count": 243,
+    "authors": [
+      {
+        "author_id": "47666140",
+        "author_name": "Hongxu Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/47666140"
+      },
+      {
+        "author_id": "2367687",
+        "author_name": "Yinxing Xue",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2367687"
+      },
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "144943089",
+        "author_name": "Bihuan Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144943089"
+      },
+      {
+        "author_id": "49419199",
+        "author_name": "Xiaofei Xie",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/49419199"
+      },
+      {
+        "author_id": "2142479116",
+        "author_name": "Xiuheng Wu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/2142479116"
+      },
+      {
+        "author_id": "46399749",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/46399749"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  },
+  {
+    "key": "d9b98ccc75ec1a464e84121916fb39838dc61862",
+    "ss_url": "https://www.semanticscholar.org/paper/d9b98ccc75ec1a464e84121916fb39838dc61862",
+    "title": "Steelix: program-state based binary fuzzing",
+    "venue": "ESEC/FSE",
+    "year": 2017,
+    "citation_count": 266,
+    "authors": [
+      {
+        "author_id": "22799258",
+        "author_name": "Yuekang Li",
+        "author_highlight": true,
+        "author_url": "https://www.semanticscholar.org/author/22799258"
+      },
+      {
+        "author_id": "144943089",
+        "author_name": "Bihuan Chen",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144943089"
+      },
+      {
+        "author_id": "1735135",
+        "author_name": "Mahinthan Chandramohan",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1735135"
+      },
+      {
+        "author_id": "144660350",
+        "author_name": "Shang-Wei Lin",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144660350"
+      },
+      {
+        "author_id": "144440741",
+        "author_name": "Yang Liu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/144440741"
+      },
+      {
+        "author_id": "1800125",
+        "author_name": "Alwen Tiu",
+        "author_highlight": false,
+        "author_url": "https://www.semanticscholar.org/author/1800125"
+      }
+    ],
+    "written_by_us": true,
+    "tldr": ""
+  }
+]

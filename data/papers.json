@@ -1218,48 +1218,6 @@
     "tldr": ""
   },
   {
-    "key": "53092cd4e91f641134617add052329e2495a4fad",
-    "ss_url": "https://www.semanticscholar.org/paper/53092cd4e91f641134617add052329e2495a4fad",
-    "title": "A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models",
-    "venue": "ACL",
-    "year": 2024,
-    "citation_count": 5,
-    "authors": [
-      {
-        "author_id": "2284948586",
-        "author_name": "Zihao Xu",
-        "author_highlight": false,
-        "author_url": "https://www.semanticscholar.org/author/2284948586"
-      },
-      {
-        "author_id": "2284875313",
-        "author_name": "Yi Liu",
-        "author_highlight": false,
-        "author_url": "https://www.semanticscholar.org/author/2284875313"
-      },
-      {
-        "author_id": "73776889",
-        "author_name": "Gelei Deng",
-        "author_highlight": false,
-        "author_url": "https://www.semanticscholar.org/author/73776889"
-      },
-      {
-        "author_id": "22799258",
-        "author_name": "Yuekang Li",
-        "author_highlight": true,
-        "author_url": "https://www.semanticscholar.org/author/22799258"
-      },
-      {
-        "author_id": "1686538",
-        "author_name": "S. Picek",
-        "author_highlight": false,
-        "author_url": "https://www.semanticscholar.org/author/1686538"
-      }
-    ],
-    "written_by_us": true,
-    "tldr": ""
-  },
-  {
     "key": "88dbb1751eb748e2bf5588dc922a63127351cb34",
     "ss_url": "https://www.semanticscholar.org/paper/88dbb1751eb748e2bf5588dc922a63127351cb34",
     "title": "NAUTILUS: Automated RESTful API Vulnerability Detection",
@@ -3555,7 +3513,7 @@
     "key": "6b7c106751dd9aa99d57816adb5df57b12a609f8",
     "ss_url": "https://www.semanticscholar.org/paper/6b7c106751dd9aa99d57816adb5df57b12a609f8",
     "title": "Principled Greybox Fuzzing",
-    "venue": "IEEE International Conference on Formal Engineering Methods",
+    "venue": "ICFEM",
     "year": 2018,
     "citation_count": 0,
     "authors": [
